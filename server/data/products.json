@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "StudyBook Air 14",
+    "category": "laptops",
+    "price": "28999 UAH",
+    "description": "Lightweight laptop for studying, office work, and browsing.",
+    "specs": {
+      "cpu": "Intel Core i5",
+      "ram": "16 GB",
+      "storage": "512 GB SSD",
+      "display": "14 inch Full HD"
+    },
+    "recommendedFor": ["studying", "office work", "browsing"]
+  },
+  {
+    "id": 2,
+    "name": "PowerPro 15",
+    "category": "laptops",
+    "price": "41999 UAH",
+    "description": "Balanced performance laptop for creators and multitaskers.",
+    "specs": {
+      "cpu": "AMD Ryzen 7",
+      "ram": "16 GB",
+      "storage": "1 TB SSD",
+      "display": "15.6 inch 120Hz"
+    },
+    "recommendedFor": ["content creation", "multitasking", "remote work"]
+  },
+  {
+    "id": 3,
+    "name": "UltraView 27",
+    "category": "monitors",
+    "price": "25999 UAH",
+    "description": "Crisp 27 inch monitor for office work and media viewing.",
+    "specs": {
+      "cpu": "N/A",
+      "ram": "N/A",
+      "storage": "N/A",
+      "display": "27 inch QHD"
+    },
+    "recommendedFor": ["office work", "video conferencing", "content review"]
+  },
+  {
+    "id": 4,
+    "name": "SoundWave Pro",
+    "category": "headphones",
+    "price": "8999 UAH",
+    "description": "Over-ear headphones with balanced audio and noise reduction.",
+    "specs": {
+      "cpu": "N/A",
+      "ram": "N/A",
+      "storage": "N/A",
+      "display": "Wireless over-ear"
+    },
+    "recommendedFor": ["music", "study sessions", "remote calls"]
+  },
+  {
+    "id": 5,
+    "name": "Galaxy One",
+    "category": "smartphones",
+    "price": "24999 UAH",
+    "description": "Smartphone with long battery life and sharp display.",
+    "specs": {
+      "cpu": "Octa-core 2.8 GHz",
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "display": "6.5 inch AMOLED"
+    },
+    "recommendedFor": ["daily use", "social media", "photos"]
+  },
+  {
+    "id": 6,
+    "name": "Pixel Prime",
+    "category": "smartphones",
+    "price": "31999 UAH",
+    "description": "Premium smartphone for photography and productivity.",
+    "specs": {
+      "cpu": "Octa-core 3.0 GHz",
+      "ram": "12 GB",
+      "storage": "512 GB",
+      "display": "6.7 inch OLED"
+    },
+    "recommendedFor": ["photography", "streaming", "power users"]
+  },
+  {
+    "id": 7,
+    "name": "SpeedType Mechanical",
+    "category": "keyboards",
+    "price": "4999 UAH",
+    "description": "Compact mechanical keyboard with programmable keys.",
+    "specs": {
+      "cpu": "N/A",
+      "ram": "N/A",
+      "storage": "N/A",
+      "display": "RGB backlight"
+    },
+    "recommendedFor": ["typing", "gaming", "coding"]
+  },
+  {
+    "id": 8,
+    "name": "ClearTone Earbuds",
+    "category": "headphones",
+    "price": "5999 UAH",
+    "description": "In-ear earbuds with clear calls and smart controls.",
+    "specs": {
+      "cpu": "N/A",
+      "ram": "N/A",
+      "storage": "N/A",
+      "display": "True wireless"
+    },
+    "recommendedFor": ["commuting", "workouts", "daily music"]
+  },
+  {
+    "id": 9,
+    "name": "ViewMaster 24",
+    "category": "monitors",
+    "price": "17999 UAH",
+    "description": "Reliable 24 inch monitor for students and office tasks.",
+    "specs": {
+      "cpu": "N/A",
+      "ram": "N/A",
+      "storage": "N/A",
+      "display": "24 inch Full HD"
+    },
+    "recommendedFor": ["study", "home office", "web browsing"]
+  },
+  {
+    "id": 10,
+    "name": "ConnectPad Smart Keyboard",
+    "category": "keyboards",
+    "price": "3499 UAH",
+    "description": "Sleek wireless keyboard with quiet keys.",
+    "specs": {
+      "cpu": "N/A",
+      "ram": "N/A",
+      "storage": "N/A",
+      "display": "Wireless layout"
+    },
+    "recommendedFor": ["remote work", "note taking", "light typing"]
+  },
+  {
+    "id": 11,
+    "name": "ChargeMax Phone",
+    "category": "smartphones",
+    "price": "20999 UAH",
+    "description": "Affordable phone with fast charging and reliable performance.",
+    "specs": {
+      "cpu": "Octa-core 2.2 GHz",
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "display": "6.4 inch LCD"
+    },
+    "recommendedFor": ["budget buyers", "students", "social media"]
+  },
+  {
+    "id": 12,
+    "name": "ProSound Studio",
+    "category": "headphones",
+    "price": "12499 UAH",
+    "description": "Closed-back headphones designed for streaming and editing audio.",
+    "specs": {
+      "cpu": "N/A",
+      "ram": "N/A",
+      "storage": "N/A",
+      "display": "Studio quality"
+    },
+    "recommendedFor": ["audio editing", "production", "streaming"]
+  },
+  {
+    "id": 13,
+    "name": "GameStrike Keyboard",
+    "category": "keyboards",
+    "price": "6499 UAH",
+    "description": "RGB gaming keyboard with fast mechanical switches.",
+    "specs": {
+      "cpu": "N/A",
+      "ram": "N/A",
+      "storage": "N/A",
+      "display": "RGB mechanical"
+    },
+    "recommendedFor": ["gaming", "fast typing", "streaming"]
+  },
+  {
+    "id": 14,
+    "name": "FocusView Monitor",
+    "category": "monitors",
+    "price": "21999 UAH",
+    "description": "27 inch monitor with eye comfort mode and blue light filter.",
+    "specs": {
+      "cpu": "N/A",
+      "ram": "N/A",
+      "storage": "N/A",
+      "display": "27 inch IPS"
+    },
+    "recommendedFor": ["design", "office work", "study"]
+  },
+  {
+    "id": 15,
+    "name": "Traveler Laptop 13",
+    "category": "laptops",
+    "price": "19999 UAH",
+    "description": "Thin laptop for travel, note-taking, and everyday tasks.",
+    "specs": {
+      "cpu": "Intel Core i3",
+      "ram": "8 GB",
+      "storage": "256 GB SSD",
+      "display": "13.3 inch Full HD"
+    },
+    "recommendedFor": ["travel", "students", "light work"]
+  }
+]
