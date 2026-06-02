@@ -29,7 +29,6 @@ ollama run llama3.2:3b
 ```bash
 cd server
 npm install
-copy .env.example .env   # optional - env defaults are in code
 npm start
 ```
 
