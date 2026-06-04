@@ -1,9 +1,10 @@
 const { Ollama } = require("ollama");
 const { formatProductsForPrompt } = require("./productService");
 
-// Read model and host from environment with safe defaults (host.docker.internal for Docker)
+// Read model and host from environment with safe defaults.
+// Use localhost for local npm runs; Docker can override with OLLAMA_HOST.
 const model = process.env.OLLAMA_MODEL || "llama3.2:3b";
-let host = process.env.OLLAMA_HOST || "http://host.docker.internal:11434";
+let host = process.env.OLLAMA_HOST || "http://localhost:11434";
 if (!host.startsWith("http://") && !host.startsWith("https://")) {
   host = "http://" + host;
 }

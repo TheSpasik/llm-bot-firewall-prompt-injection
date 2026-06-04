@@ -19,7 +19,7 @@ dotenv.config();
 const app = express();
 const port = process.env.PORT || 5000;
 const model = process.env.OLLAMA_MODEL || "llama3.2:3b";
-let host = process.env.OLLAMA_HOST || "http://host.docker.internal:11434";
+let host = process.env.OLLAMA_HOST || "http://localhost:11434";
 if (!host.startsWith("http://") && !host.startsWith("https://")) {
   host = "http://" + host;
 }
